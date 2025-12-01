@@ -1,151 +1,188 @@
-<!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There+👋+I'm+Amar+Jaleel!;AI+Learner+%7C+Cybersecurity+Trainee+%7C+Data+Analyst;Google+Certified+in+AI%2C+Cybersecurity;Google+Certified+in+Data+Analytics;Always+Growing+and+Improving!+🚀" alt="Typing Header"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1500&color=00D9FF&center=true&vCenter=true&width=900&lines=Hi+There+👋+I'm+Amar+Jaleel;Full-Stack+Tech+Enthusiast;AI+%7C+Cybersecurity+%7C+Data+Analytics;Building+Tomorrow's+Solutions+Today" alt="Typing SVG" />
 </p>
 
----
-
-# 💫 About Me
-
-🌟 I’m *Amar Jaleel, a passionate learner exploring the exciting fields of **Artificial Intelligence, Cybersecurity, and Data Analytics*, while studying Computer Science.
-
-🎯 I enjoy building tech projects, learning advanced tools, and applying my skills to solve real-world problems.
-
-🎓 I have successfully completed *three major Google Professional Certifications*:
-- 🛡 *Google Cybersecurity Professional Certificate*  
-- 🤖 *Google AI Essentials Certificate*  
-- 📊 *Google Data Analytics Professional Certificate*
-
-📘 I also explore programming, algorithms, problem-solving, and AI technologies.
-
-💡 I believe in continuous learning — every day a little better than yesterday.
+<div align="center">
+  <a href="https://www.linkedin.com/in/amarjaleelbanbhan/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/amarjaleelbanbhan">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:amarjaleel@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
-# 🏅 Google Cybersecurity Professional Certificate  
-📅 Completed: Nov 27, 2025
+## 🌟 About Me
 
-### ✔ Skills Gained  
-- Python (Beginner-level scripting)  
-- Linux Commands & Permissions  
-- SQL for Security  
-- SIEM Tools (Security Information & Event Management)  
-- Intrusion Detection Systems (IDS)  
-- Risk Management  
-- Threat Identification & Vulnerability Analysis  
-- Incident Response  
+I'm a **passionate tech enthusiast** with a strong foundation in **Artificial Intelligence**, **Cybersecurity**, and **Data Analytics**. Currently pursuing a degree in Computer Science, I'm committed to developing innovative solutions that bridge the gap between cutting-edge technology and real-world challenges.
 
-### 📚 *Courses Completed (9 Courses)*  
-1. Foundations of Cybersecurity  
-2. Play It Safe: Manage Security Risks  
-3. Connect and Protect: Networks and Network Security  
-4. Tools of the Trade: Linux and SQL  
-5. Assets, Threats, and Vulnerabilities  
-6. Sound the Alarm: Detection and Response  
-7. Automate Cybersecurity Tasks with Python  
-8. Put It to Work: Prepare for Cybersecurity Jobs  
-9. Accelerate Your Job Search with AI  
+**My Mission:** To leverage technology responsibly and create meaningful impact through continuous learning and practical problem-solving.
+
+- 🎯 **Focus Areas:** AI/ML Applications, Security Architecture, Data-Driven Insights
+- 🔬 **Currently Exploring:** Advanced ML Algorithms, Cloud Security, Big Data Analytics
+- 📚 **Lifelong Learner:** Google Certified Professional | 9+ Completed Courses
+- 🤝 **Open to Collaboration:** Projects, Open Source, Research Initiatives
 
 ---
 
-# 🤖 Google AI Essentials Certificate  
-📅 Completed: Aug 17, 2025
+## 🛠️ Tech Stack
 
-### ✔ Skills Gained  
-- AI Fundamentals  
-- Generative AI Tools  
-- Prompt Writing  
-- Productivity with AI  
-- Responsible AI Usage  
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 📚 *Courses Completed (5 Courses)*  
-1. Introduction to AI  
-2. Maximize Productivity With AI Tools  
-3. Discover the Art of Prompting  
-4. Use AI Responsibly  
-5. Stay Ahead of the AI Curve  
+### 🤖 AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
----
+### 📊 Data & Analytics
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power%20BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Google%20Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=flat&logo=google-analytics&logoColor=white)
 
-# 📊 Google Data Analytics Professional Certificate  
-📅 Completed: Nov 28, 2025
+### 🔒 Cybersecurity
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
 
-### ✔ Skills Gained  
-- Spreadsheets  
-- SQL  
-- R Programming  
-- Data Cleaning  
-- Data Preparation  
-- Data Visualization (Tableau + R)  
-- Data-Driven Insights  
-
-### 📚 *Courses Completed (9 Courses)*  
-1. Foundations: Data, Data, Everywhere  
-2. Ask Questions to Make Data-Driven Decisions  
-3. Prepare Data for Exploration  
-4. Process Data from Dirty to Clean  
-5. Analyze Data to Answer Questions  
-6. Share Data Through the Art of Visualization  
-7. Data Analysis with R Programming  
-8. Google Data Analytics Capstone: Case Study  
-9. Accelerate Your Job Search with AI  
+### 🌐 Web & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-# 🌐 Socials
+## 🚀 Featured Projects
 
-<p align="left">
-<a href="https://facebook.com/ajbanbhan"><img src="https://skillicons.dev/icons?i=facebook" width="45"/></a>
-<a href="https://instagram.com/amarjaleel_"><img src="https://skillicons.dev/icons?i=instagram" width="45"/></a>
-<a href="https://www.linkedin.com/in/amar-jaleel-7b12241b8"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-<a href="https://x.com/ajbanbhan"><img src="https://skillicons.dev/icons?i=twitter" width="45"/></a>
-</p>
+> 📌 **Tip:** Check my repositories below for detailed documentation and live demos!
 
----
+### 🔐 Project Highlights Coming Soon
+I'm currently building several impactful projects showcasing:
+- AI-powered applications with real-world utility
+- Security tools and analysis frameworks
+- Data visualization dashboards
 
-# 🛠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,r,mysql,sqlite,tableau,linux,html,css,js,github,git,vscode,canva,figma" height="100"/>
-</p>
+**Want to collaborate?** Check out my repositories or reach out!
 
 ---
 
-# 📊 GitHub Analytics
+## 📜 Professional Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjaleelbanbhan&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<details>
+<summary><b>📚 Google Professional Certifications (3 Completed)</b></summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjaleelbanbhan&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+#### 🤖 Google AI Essentials
+- **Issued:** Coursera | Google
+- **Skills Gained:** 
+  - Fundamentals of Generative AI
+  - Prompt Engineering
+  - AI Applications & Ethics
+  - Responsible AI Practices
+
+#### 🔒 Google Cybersecurity Professional Certificate
+- **Issued:** Coursera | Google
+- **Skills Gained:**
+  - Network Security & Protocol Analysis
+  - Threat Detection & Response
+  - Security Compliance Frameworks
+  - Incident Response Procedures
+
+#### 📊 Google Data Analytics Professional Certificate
+- **Issued:** Coursera | Google
+- **Completed:** November 2025
+- **Skills Gained:**
+  - Data Analysis & SQL
+  - Spreadsheet Mastery (Excel, Google Sheets)
+  - Data Visualization (Tableau, Google Data Studio)
+  - Data-Driven Decision Making
+  - R Programming Basics
+
+</details>
+
+<details>
+<summary><b>🎓 Additional Courses & Training</b></summary>
+
+- **Data Science Specialization** - Multiple courses
+- **Cybersecurity Fundamentals** - Advanced modules
+- **AI & Machine Learning Bootcamp** - Hands-on projects
+- **Python for Data Analysis**
+- **Web Security Best Practices**
+- **Cloud Computing Essentials**
+- **Statistical Analysis & Probability**
+- **Advanced Excel for Analytics**
+- **Business Intelligence Fundamentals**
+
+</details>
 
 ---
 
-# 🚀 Key Strengths & Skills
+## 📊 GitHub Statistics
 
-✔ Cybersecurity Fundamentals  
-✔ SQL, R, Python  
-✔ Data Visualization (Tableau, R)  
-✔ Linux & Command Line  
-✔ Prompt Engineering  
-✔ AI Tools & Automation  
-✔ Incident Detection & Response  
-✔ Data Cleaning, Analysis & Insights  
-✔ Network Security Basics  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjaleelbanbhan&layout=compact&theme=tokyonight" />
+</div>
 
----
-
-# ✍ Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amarjaleelbanbhan&theme=tokyonight&hide_border=false" />
+</div>
 
 ---
 
+## 🎯 What I'm Working On
 
+✅ **In Progress:**
+- Building a comprehensive AI/ML portfolio
+- Contributing to open-source security projects
+- Developing data analytics dashboards
+- Exploring advanced cybersecurity concepts
 
-<p align="center">🔥 Proudly crafted by <b>Amar Jaleel</b> — with passion, hard work, and consistency ✨</p>
+📌 **Coming Soon:**
+- Detailed case studies of completed projects
+- Technical blog posts on Medium
+- YouTube tutorials on Data Science & AI
+- Open-source security tools
+
+---
+
+## 💡 Fun Facts
+
+- 🧠 Passionate about solving complex problems through AI and data
+- 🔍 Love diving deep into cybersecurity research
+- 📈 Excited by data storytelling and visualization
+- 🌱 Believer in continuous learning and growth mindset
+- 🎮 Tech enthusiast who enjoys learning new frameworks
+
+---
+
+## 📫 Let's Connect!
+
+I'm always interested in:
+- 🤝 Collaborating on exciting projects
+- 💼 Discussing tech and innovation
+- 📚 Sharing knowledge and learning together
+- 🚀 Exploring new opportunities
+
+<div align="center">
+  <strong>Feel free to reach out – Let's build something amazing together!</strong>
+  
+  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amarjaleelbanbhan/)
+  [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail)](mailto:amarjaleel@example.com)
+</div>
+
+---
+
+<div align="center">
+  <sub>⭐ If you find my work interesting, please consider giving a star! It means the world.</sub>
+</div>
