@@ -181,9 +181,11 @@ I'm always interested in:
 <div align="center">
   <strong>Feel free to reach out – Let's build something amazing together!</strong>
   
-  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/amarjaleelbanbhan/](https://www.linkedin.com/in/amarjaleel/))
-  [![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail)](mailto:banbhanamarjalil@gmail.com)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/LWKTNB5Y66VSG1)
+ [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amarjaleel/)
+
+[![Email](https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail)](mailto:banbhanamarjalil@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923444432197)
 
 </div>
 
