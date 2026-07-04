@@ -1,0 +1,104 @@
+<svg width="900" height="300" viewBox="0 0 900 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0E14"/>
+      <stop offset="1" stop-color="#0D1B2A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="0.5" stop-color="#7B61FF"/>
+      <stop offset="1" stop-color="#00FFA3"/>
+      <animateTransform attributeName="gradientTransform" type="translate" values="-900 0; 900 0; -900 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="orb1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00D9FF" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#00D9FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7B61FF" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#7B61FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" rx="16" fill="url(#bg)"/>
+
+  <!-- Ambient orbs -->
+  <circle cx="120" cy="60" r="160" fill="url(#orb1)">
+    <animate attributeName="cx" values="120;180;120" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="780" cy="240" r="180" fill="url(#orb2)">
+    <animate attributeName="cy" values="240;180;240" dur="12s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Grid lines -->
+  <g stroke="#1B263B" stroke-width="1" opacity="0.5">
+    <line x1="0" y1="75" x2="900" y2="75"/>
+    <line x1="0" y1="150" x2="900" y2="150"/>
+    <line x1="0" y1="225" x2="900" y2="225"/>
+    <line x1="225" y1="0" x2="225" y2="300"/>
+    <line x1="450" y1="0" x2="450" y2="300"/>
+    <line x1="675" y1="0" x2="675" y2="300"/>
+  </g>
+
+  <!-- Terminal window -->
+  <g>
+    <rect x="150" y="48" width="600" height="204" rx="12" fill="#0D1117" stroke="#1F2A3A" stroke-width="1.5"/>
+    <rect x="150" y="48" width="600" height="34" rx="12" fill="#131A24"/>
+    <rect x="150" y="70" width="600" height="12" fill="#131A24"/>
+    <circle cx="174" cy="65" r="6" fill="#FF5F57"/>
+    <circle cx="194" cy="65" r="6" fill="#FEBC2E"/>
+    <circle cx="214" cy="65" r="6" fill="#28C840"/>
+    <text x="450" y="70" text-anchor="middle" font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="12" fill="#5C6B7F">amar@jaleel: ~/build</text>
+
+    <!-- Terminal content -->
+    <g font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="15">
+      <text x="176" y="112" fill="#00FFA3">➜</text>
+      <text x="196" y="112" fill="#8B98A9">whoami</text>
+      <text x="176" y="140" fill="#E6EDF3" font-size="26" font-weight="bold" filter="url(#glow)">AMAR JALEEL</text>
+
+      <text x="176" y="170" fill="#00FFA3">➜</text>
+      <text x="196" y="170" fill="#8B98A9">cat role.txt</text>
+
+      <!-- Rotating roles -->
+      <g font-size="16" font-weight="600">
+        <text x="176" y="198" fill="#00D9FF" opacity="0">
+          AI Product Engineer
+          <animate attributeName="opacity" values="0;1;1;0;0;0;0" dur="9s" repeatCount="indefinite"/>
+        </text>
+        <text x="176" y="198" fill="#7B61FF" opacity="0">
+          LLM Security Researcher
+          <animate attributeName="opacity" values="0;0;0;1;1;0;0" dur="9s" repeatCount="indefinite"/>
+        </text>
+        <text x="176" y="198" fill="#00FFA3" opacity="0">
+          Data Storyteller
+          <animate attributeName="opacity" values="0;0;0;0;0;1;1" dur="9s" repeatCount="indefinite"/>
+        </text>
+      </g>
+
+      <!-- Blinking cursor -->
+      <rect x="176" y="212" width="10" height="18" fill="#00D9FF">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+      <text x="196" y="227" fill="#3A4657" font-size="13">npm CLIs · VS Code extensions · voice agents · full-stack apps</text>
+    </g>
+  </g>
+
+  <!-- Animated bottom accent bar -->
+  <rect x="0" y="294" width="900" height="6" fill="url(#accent)"/>
+
+  <!-- Corner brackets -->
+  <g stroke="#00D9FF" stroke-width="2.5" opacity="0.9">
+    <path d="M20 40 V20 H40"/>
+    <path d="M860 20 H880 V40"/>
+    <path d="M880 260 V280 H860"/>
+    <path d="M40 280 H20 V260"/>
+  </g>
+</svg>
