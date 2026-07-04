@@ -114,8 +114,7 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjaleelbanbhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B98A9&cache_seconds=86400" alt="Top languages"/>
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=amarjaleelbanbhan&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&title=Commits,Repositories,Followers,Stars" alt="GitHub trophies"/>
+  <img src="assets/langs.svg" width="100%" alt="Language footprint and highlights"/>
 </div>
 
 <!-- ══════════════════ NOW ══════════════════ -->

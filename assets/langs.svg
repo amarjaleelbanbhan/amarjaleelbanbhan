@@ -1,0 +1,63 @@
+<svg width="900" height="230" viewBox="0 0 900 230" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardbg" x1="0" y1="0" x2="900" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1017"/>
+      <stop offset="1" stop-color="#0D1B2A"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="0.5" stop-color="#7B61FF"/>
+      <stop offset="1" stop-color="#00FFA3"/>
+    </linearGradient>
+    <clipPath id="barclip"><rect x="40" y="86" width="820" height="20" rx="10"/></clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="228" rx="14" fill="url(#cardbg)" stroke="#1F2A3A" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="40" y="46" font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="16" font-weight="700" fill="#00D9FF">&gt; language --footprint</text>
+  <text x="860" y="46" text-anchor="end" font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="12" fill="#5C6B7F">most-used across shipped work</text>
+  <line x1="40" y1="60" x2="860" y2="60" stroke="#1B263B" stroke-width="1"/>
+
+  <!-- Stacked language bar -->
+  <g clip-path="url(#barclip)" font-family="ui-monospace, 'JetBrains Mono', monospace">
+    <rect x="40"  y="86" width="820" height="20" fill="#0D1117"/>
+    <rect x="40"  y="86" width="278" height="20" fill="#3776AB"/>
+    <rect x="318" y="86" width="197" height="20" fill="#3178C6"/>
+    <rect x="515" y="86" width="148" height="20" fill="#F1E05A"/>
+    <rect x="663" y="86" width="98"  height="20" fill="#7B61FF"/>
+    <rect x="761" y="86" width="99"  height="20" fill="#00FFA3"/>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="ui-monospace, 'JetBrains Mono', monospace" font-size="13">
+    <circle cx="48"  cy="140" r="5" fill="#3776AB"/><text x="60"  y="145" fill="#8B98A9">Python <tspan fill="#5C6B7F">34%</tspan></text>
+    <circle cx="192" cy="140" r="5" fill="#3178C6"/><text x="204" y="145" fill="#8B98A9">TypeScript <tspan fill="#5C6B7F">24%</tspan></text>
+    <circle cx="372" cy="140" r="5" fill="#F1E05A"/><text x="384" y="145" fill="#8B98A9">JavaScript <tspan fill="#5C6B7F">18%</tspan></text>
+    <circle cx="560" cy="140" r="5" fill="#7B61FF"/><text x="572" y="145" fill="#8B98A9">SQL / R <tspan fill="#5C6B7F">12%</tspan></text>
+    <circle cx="700" cy="140" r="5" fill="#00FFA3"/><text x="712" y="145" fill="#8B98A9">Other <tspan fill="#5C6B7F">12%</tspan></text>
+  </g>
+
+  <!-- Stat chips -->
+  <g font-family="ui-monospace, 'JetBrains Mono', monospace">
+    <rect x="40"  y="172" width="188" height="40" rx="8" fill="#0D1117" stroke="#1F2A3A"/>
+    <text x="56" y="190" font-size="18" font-weight="700" fill="#00D9FF">6+</text>
+    <text x="90" y="190" font-size="12" fill="#8B98A9">tools</text>
+    <text x="56" y="204" font-size="10" fill="#5C6B7F">shipped &amp; installable</text>
+
+    <rect x="240" y="172" width="188" height="40" rx="8" fill="#0D1117" stroke="#1F2A3A"/>
+    <text x="256" y="190" font-size="18" font-weight="700" fill="#7B61FF">11+</text>
+    <text x="296" y="190" font-size="12" fill="#8B98A9">certs</text>
+    <text x="256" y="204" font-size="10" fill="#5C6B7F">Google Certified Pro</text>
+
+    <rect x="440" y="172" width="188" height="40" rx="8" fill="#0D1117" stroke="#1F2A3A"/>
+    <text x="456" y="190" font-size="18" font-weight="700" fill="#00FFA3">3</text>
+    <text x="474" y="190" font-size="12" fill="#8B98A9">domains</text>
+    <text x="456" y="204" font-size="10" fill="#5C6B7F">AI · Security · Data</text>
+
+    <rect x="640" y="172" width="220" height="40" rx="8" fill="#0D1117" stroke="#1F2A3A"/>
+    <text x="656" y="190" font-size="18" font-weight="700" fill="#00D9FF">CS</text>
+    <text x="686" y="190" font-size="12" fill="#8B98A9">degree</text>
+    <text x="656" y="204" font-size="10" fill="#5C6B7F">in progress · open to collab</text>
+  </g>
+</svg>
