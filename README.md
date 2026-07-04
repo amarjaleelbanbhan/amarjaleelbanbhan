@@ -46,16 +46,12 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 ### `> stats --live`
 
 <!--
-  RELIABILITY NOTE — "Invalid upstream response (402)" broken cards:
-  The public github-readme-stats.vercel.app / trophy / activity-graph instances
-  are shared and periodically hit Vercel's free bandwidth quota, returning 402.
-  cache_seconds is set below to soften it. For a PERMANENT fix, self-host:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Deploy to your own Vercel account (free), set a PAT_1 env var (GitHub token)
-    3. Replace "github-readme-stats.vercel.app" below with "<your-app>.vercel.app"
-  Do the same for github-profile-trophy and github-readme-activity-graph.
+  RELIABILITY NOTE — this stats card is SELF-HOSTED to permanently avoid the
+  "Invalid upstream response (402)" errors from the shared public instance.
+  Instance: github-readme-stats-phi-orcin-87.vercel.app (own Vercel + PAT_1).
+  To rotate/redeploy: update the domain in the <img src> below.
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00FFA3&text_color=8B98A9&hide_title=true&card_width=380&cache_seconds=86400" width="100%" alt="GitHub stats"/>
+<img src="https://github-readme-stats-phi-orcin-87.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00FFA3&text_color=8B98A9&hide_title=true&card_width=380&cache_seconds=86400" width="100%" alt="GitHub stats"/>
 
 <img src="https://streak-stats.demolab.com?user=amarjaleelbanbhan&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=5C6B7F&card_width=380" width="100%" alt="Streak stats"/>
 
