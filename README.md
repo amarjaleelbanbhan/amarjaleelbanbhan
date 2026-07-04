@@ -16,7 +16,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=8B98A9&center=true&vCenter=true&width=800&lines=I+ship+tools+people+actually+install.;npm+security+CLIs+%E2%80%A2+MCP+scanners+%E2%80%A2+VS+Code+extensions+%E2%80%A2+voice+agents;AI+%2B+Security+%2B+Data+%E2%80%94+where+the+three+collide+is+where+I+build." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=820&lines=I+ship+tools+people+actually+install.;npm+security+CLIs+%E2%80%A2+MCP+scanners+%E2%80%A2+VS+Code+extensions+%E2%80%A2+voice+agents;AI+%2B+Security+%2B+Data+%E2%80%94+where+the+three+collide+is+where+I+build." alt="Typing intro" />
 </div>
 
 <br/>
@@ -45,9 +45,19 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 
 ### `> stats --live`
 
-<img src="https://github-readme-stats.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00D9FF&text_color=8B98A9&hide_title=true&card_width=380" width="100%"/>
+<!--
+  RELIABILITY NOTE — "Invalid upstream response (402)" broken cards:
+  The public github-readme-stats.vercel.app / trophy / activity-graph instances
+  are shared and periodically hit Vercel's free bandwidth quota, returning 402.
+  cache_seconds is set below to soften it. For a PERMANENT fix, self-host:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy to your own Vercel account (free), set a PAT_1 env var (GitHub token)
+    3. Replace "github-readme-stats.vercel.app" below with "<your-app>.vercel.app"
+  Do the same for github-profile-trophy and github-readme-activity-graph.
+-->
+<img src="https://github-readme-stats.vercel.app/api?username=amarjaleelbanbhan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=00D9FF&icon_color=00FFA3&text_color=8B98A9&hide_title=true&card_width=380&cache_seconds=86400" width="100%" alt="GitHub stats"/>
 
-<img src="https://streak-stats.demolab.com?user=amarjaleelbanbhan&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF&card_width=380" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=amarjaleelbanbhan&theme=tokyonight&hide_border=true&background=00000000&ring=00D9FF&fire=00FFA3&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=5C6B7F&card_width=380" width="100%" alt="Streak stats"/>
 
 </td>
 </tr>
@@ -77,12 +87,12 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 
 | | Project | The Pitch | Arsenal |
 |:---:|---|---|---|
-| 🛡️ | **[VeriPatch](https://github.com/amarjaleelbanbhan/VeriPatch)** | npm security CLI — verifies package integrity **before** install; catches tampered packages & supply-chain attacks | ![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js) ![](https://img.shields.io/badge/-npm-0D1117?logo=npm) |
-| 🔍 | **[MCTS](https://github.com/amarjaleelbanbhan/MCTS)** | MCP Security Scanner — static analysis of AI tool definitions for prompt injection, data exfiltration & code-exec risks | ![](https://img.shields.io/badge/-Python-0D1117?logo=python) ![](https://img.shields.io/badge/-LLM-0D1117?logo=openai) |
-| ✅ | **[TODO Tracker Pro](https://github.com/amarjaleelbanbhan/todo-tracker-pro)** | VS Code extension — every TODO/FIXME/HACK in one sidebar, with Gemini AI priority triage | ![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript) ![](https://img.shields.io/badge/-Gemini-0D1117?logo=googlegemini) |
-| 🏗️ | **[BuildSphere](https://github.com/amarjaleelbanbhan/BuildSphere)** | Browser-based 3D floor planner — walls, furniture, undo/redo, export. Pure WebGL | ![](https://img.shields.io/badge/-Three.js-0D1117?logo=three.js) ![](https://img.shields.io/badge/-Next.js-0D1117?logo=next.js) |
-| 🩺 | **[MediTalk AI](https://github.com/amarjaleelbanbhan/MediTalk_AI_Agent)** | Voice agent for preliminary medical consultation — 85% symptom-analysis accuracy, natural speech | ![](https://img.shields.io/badge/-Flask-0D1117?logo=flask) ![](https://img.shields.io/badge/-Docker-0D1117?logo=docker) |
-| 🤲 | **[ZakatLink](https://github.com/amarjaleelbanbhan/ZakatLink)** | Full-stack Zakat platform — donors ↔ recipients, role-based auth, beneficiary tracking | ![](https://img.shields.io/badge/-React-0D1117?logo=react) ![](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql) |
+| 🛡️ | **[VeriPatch](https://github.com/amarjaleelbanbhan/VeriPatch)** | npm security CLI — verifies package integrity **before** install; catches tampered packages & supply-chain attacks | ![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=339933) ![](https://img.shields.io/badge/-npm-0D1117?logo=npm&logoColor=CB3837) |
+| 🔍 | **[MCTS](https://github.com/amarjaleelbanbhan/MCTS)** | MCP Security Scanner — static analysis of AI tool definitions for prompt injection, data exfiltration & code-exec risks | ![](https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=3776AB) ![](https://img.shields.io/badge/-LLM-0D1117?logo=openai&logoColor=00A67E) |
+| ✅ | **[TODO Tracker Pro](https://github.com/amarjaleelbanbhan/todo-tracker-pro)** | VS Code extension — every TODO/FIXME/HACK in one sidebar, with Gemini AI priority triage | ![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6) ![](https://img.shields.io/badge/-Gemini-0D1117?logo=googlegemini&logoColor=8E75FF) |
+| 🏗️ | **[BuildSphere](https://github.com/amarjaleelbanbhan/BuildSphere)** | Browser-based 3D floor planner — walls, furniture, undo/redo, export. Pure WebGL | ![](https://img.shields.io/badge/-Three.js-0D1117?logo=three.js&logoColor=white) ![](https://img.shields.io/badge/-Next.js-0D1117?logo=next.js&logoColor=white) |
+| 🩺 | **[MediTalk AI](https://github.com/amarjaleelbanbhan/MediTalk_AI_Agent)** | Voice agent for preliminary medical consultation — 85% symptom-analysis accuracy, natural speech | ![](https://img.shields.io/badge/-Flask-0D1117?logo=flask&logoColor=white) ![](https://img.shields.io/badge/-Docker-0D1117?logo=docker&logoColor=2496ED) |
+| 🤲 | **[ZakatLink](https://github.com/amarjaleelbanbhan/ZakatLink)** | Full-stack Zakat platform — donors ↔ recipients, role-based auth, beneficiary tracking | ![](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=4479A1) |
 
 </div>
 
@@ -100,12 +110,12 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 ## 📡 Signal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarjaleelbanbhan&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=8B98A9&line=00D9FF&point=00FFA3&area=true&area_color=00D9FF" width="97%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amarjaleelbanbhan&theme=tokyo-night&hide_border=true&radius=12&bg_color=0D1117&color=8B98A9&line=00D9FF&point=00FFA3&area=true&area_color=00D9FF&custom_title=Contribution%20Signal" width="97%" alt="Contribution activity graph"/>
 </div>
 
 <div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjaleelbanbhan&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B98A9"/>
-  <img height="150" src="https://github-profile-trophy.vercel.app/?username=amarjaleelbanbhan&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&title=Commits,Repositories,Followers,Stars"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amarjaleelbanbhan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B98A9&cache_seconds=86400" alt="Top languages"/>
+  <img height="150" src="https://github-profile-trophy.vercel.app/?username=amarjaleelbanbhan&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=8&title=Commits,Repositories,Followers,Stars" alt="GitHub trophies"/>
 </div>
 
 <!-- ══════════════════ NOW ══════════════════ -->
