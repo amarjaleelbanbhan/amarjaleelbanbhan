@@ -126,15 +126,6 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 
 <sub>🧠 Complex problems → AI + data · 🔍 Security research rabbit holes · 📈 Data storytelling · 🌱 Growth mindset · 🎮 Framework explorer</sub>
 
-<!-- ══════════════════ REPOMATCH ══════════════════ -->
-
-## 🔀 Next Repo to Try
-
-<div align="center">
-  <a href="https://repomatch-web.vercel.app"><img src="https://repomatch-widget-kappa.vercel.app/api/widget/amarjaleelbanbhan.svg?theme=dark" alt="RepoMatch — OSS activity + next repo to try"/></a>
-  <br/>
-  <sub>Live OSS activity + a personalized repo recommendation, powered by <a href="https://github.com/amarjaleelbanbhan/repomatch">RepoMatch</a> — a discovery platform I'm building in the open.</sub>
-</div>
 
 <!-- ══════════════════ CONNECT ══════════════════ -->
 
