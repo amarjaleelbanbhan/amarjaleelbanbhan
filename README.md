@@ -146,7 +146,7 @@ Open to **collaborations**, **open-source work**, **research initiatives**, and 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=amarjaleelbanbhan&style=flat-square&color=00D9FF&label=visitors"/>
   <br/><br/>
-  <sub>⭐ If something here caught your eye, a star goes a long way.</sub>
+  <sub> ⭐ If something here caught your eye, a star goes a long way.</sub>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7B61FF,100:0F2027&height=100&section=footer" width="100%"/>
