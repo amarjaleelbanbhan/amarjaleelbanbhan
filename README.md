@@ -58,7 +58,4 @@ I'm exploring **SCAR-OS**, a developer-oriented operating environment for voice-
 
 **Education:** B.S. in Computer Science, Sukkur IBA University · expected 2027
 
-<div align="center">
-  <p><strong>Open to engineering opportunities, research, and open-source collaboration.</strong></p>
-  <p><a href="https://www.amarjaleel.me">Portfolio</a> · <a href="https://www.linkedin.com/in/amarjaleel/">LinkedIn</a> · <a href="mailto:banbhanamarjalil@gmail.com">Email</a></p>
-</div>
+<p align="center"><strong>Open to engineering opportunities, research, and open-source collaboration.</strong></p>
