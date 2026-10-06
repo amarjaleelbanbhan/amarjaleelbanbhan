@@ -40,11 +40,17 @@ certified:  Google Certified Professional · 11+ certifications
 open_to:    [Collaboration, Open Source, Research Initiatives]
 ```
 
+### `> build_principles`
+
+- **Build** for real workflows.
+- **Verify** outcomes with tests and evidence.
+- **State** limits clearly.
+
 </td>
 <td width="40%" valign="top">
 
 <div align="center">
-  <img src="assets/mascot-gaze.gif" width="128" alt="Amar's portfolio mascot glancing around in a gentle loop"/>
+  <img src="assets/mascot-gaze.gif" width="72" alt="Amar's portfolio mascot glancing around in a gentle loop"/>
 </div>
 
 ### `> stats --live`
