@@ -43,6 +43,10 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 </td>
 <td width="40%" valign="top">
 
+<div align="center">
+  <img src="assets/mascot-gaze.gif" width="128" alt="Amar's portfolio mascot glancing around in a gentle loop"/>
+</div>
+
 ### `> stats --live`
 
 <!--
