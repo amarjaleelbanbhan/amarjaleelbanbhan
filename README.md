@@ -40,11 +40,6 @@ certified:  Google Certified Professional · 11+ certifications
 open_to:    [Collaboration, Open Source, Research Initiatives]
 ```
 
-### `> build_principles`
-
-- **Build** for real workflows.
-- **Verify** outcomes with tests and evidence.
-- **State** limits clearly.
 
 </td>
 <td width="40%" valign="top">
