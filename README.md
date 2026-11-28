@@ -85,14 +85,27 @@ open_to:    [Collaboration, Open Source, Research Initiatives]
 
 <div align="center">
 
-| | Project | The Pitch | Arsenal |
-|:---:|---|---|---|
-| 🛡️ | **[VeriPatch](https://github.com/amarjaleelbanbhan/VeriPatch)** | npm security CLI — verifies package integrity **before** install; catches tampered packages & supply-chain attacks | ![](https://img.shields.io/badge/-Node.js-0D1117?logo=node.js&logoColor=339933) ![](https://img.shields.io/badge/-npm-0D1117?logo=npm&logoColor=CB3837) |
-| 🔍 | **[MCTS](https://github.com/amarjaleelbanbhan/MCTS)** | MCP Security Scanner — static analysis of AI tool definitions for prompt injection, data exfiltration & code-exec risks | ![](https://img.shields.io/badge/-Python-0D1117?logo=python&logoColor=3776AB) ![](https://img.shields.io/badge/-LLM-0D1117?logo=openai&logoColor=00A67E) |
-| ✅ | **[TODO Tracker Pro](https://github.com/amarjaleelbanbhan/todo-tracker-pro)** | VS Code extension — every TODO/FIXME/HACK in one sidebar, with Gemini AI priority triage | ![](https://img.shields.io/badge/-TypeScript-0D1117?logo=typescript&logoColor=3178C6) ![](https://img.shields.io/badge/-Gemini-0D1117?logo=googlegemini&logoColor=8E75FF) |
-| 🏗️ | **[BuildSphere](https://github.com/amarjaleelbanbhan/BuildSphere)** | Browser-based 3D floor planner — walls, furniture, undo/redo, export. Pure WebGL | ![](https://img.shields.io/badge/-Three.js-0D1117?logo=three.js&logoColor=white) ![](https://img.shields.io/badge/-Next.js-0D1117?logo=next.js&logoColor=white) |
-| 🩺 | **[MediTalk AI](https://github.com/amarjaleelbanbhan/MediTalk_AI_Agent)** | Voice agent for preliminary medical consultation — 85% symptom-analysis accuracy, natural speech | ![](https://img.shields.io/badge/-Flask-0D1117?logo=flask&logoColor=white) ![](https://img.shields.io/badge/-Docker-0D1117?logo=docker&logoColor=2496ED) |
-| 🤲 | **[ZakatLink](https://github.com/amarjaleelbanbhan/ZakatLink)** | Full-stack Zakat platform — donors ↔ recipients, role-based auth, beneficiary tracking | ![](https://img.shields.io/badge/-React-0D1117?logo=react&logoColor=61DAFB) ![](https://img.shields.io/badge/-MySQL-0D1117?logo=mysql&logoColor=4479A1) |
+<table>
+<tr>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/VeriPatch"><img src="assets/projects/veripatch.svg" width="400" alt="VeriPatch — npm security CLI — verifies package integrity before install; catches tampered packages &amp; supply-chain attacks. Stack: Node.js, npm"/></a></td>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/MCTS"><img src="assets/projects/mcts.svg" width="400" alt="MCTS — MCP Security Scanner — static analysis of AI tool definitions for prompt injection, data exfiltration &amp; code-exec risks. Stack: Python, LLM"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/todo-tracker-pro"><img src="assets/projects/todo-tracker-pro.svg" width="400" alt="TODO Tracker Pro — VS Code extension — every TODO/FIXME/HACK in one sidebar, with Gemini AI priority triage. Stack: TypeScript, Gemini"/></a></td>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/BuildSphere"><img src="assets/projects/buildsphere.svg" width="400" alt="BuildSphere — Browser-based 3D floor planner — walls, furniture, undo/redo, export. Pure WebGL. Stack: Three.js, Next.js"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/MediTalk_AI_Agent"><img src="assets/projects/meditalk.svg" width="400" alt="MediTalk AI — Voice agent for preliminary medical consultation — 85% symptom-analysis accuracy, natural speech. Stack: Flask, Docker"/></a></td>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/ZakatLink"><img src="assets/projects/zakatlink.svg" width="400" alt="ZakatLink — Full-stack Zakat platform — donors ↔ recipients, role-based auth, beneficiary tracking. Stack: React, MySQL"/></a></td>
+</tr>
+<tr>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/APIForge"><img src="assets/projects/apiforge.svg" width="400" alt="APIForge — Browser-based API contract compiler — one DSL contract to OpenAPI 3.1, JSON Schema, TypeScript types, Ajv validators &amp; test scenarios. Stack: TypeScript, Next.js"/></a></td>
+<td align="center"><a href="https://github.com/amarjaleelbanbhan/CortexWard"><img src="assets/projects/cortexward.svg" width="400" alt="CortexWard — AI software security engineer — understands, verifies, fixes &amp; secures software; SARIF output for CI. Stack: Python"/></a></td>
+</tr>
+<tr>
+<td align="center" colspan="2"><a href="https://github.com/amarjaleelbanbhan/nightshift"><img src="assets/projects/nightshift.svg" width="400" alt="nightshift — Developer terminal customization toolkit — themes, profiles, widgets &amp; integrations for Windows Terminal. Stack: TypeScript"/></a></td>
+</tr>
+</table>
 
 </div>
 
